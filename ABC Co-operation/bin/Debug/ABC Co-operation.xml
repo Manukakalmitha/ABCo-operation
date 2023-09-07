@@ -1,0 +1,329 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>ABC Co-operation</name>
+    </assembly>
+    <members>
+        <member name="F:ABC_Co_operation.employee.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:ABC_Co_operation.employee.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:ABC_Co_operation.employee.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="T:ABC_Co_operation.EmployeemanagementDataSet">
+             <summary>
+            Represents a strongly typed in-memory cache of data.
+            </summary>
+        </member>
+        <member name="T:ABC_Co_operation.empmanagementDataSet">
+             <summary>
+            Represents a strongly typed in-memory cache of data.
+            </summary>
+        </member>
+        <member name="T:ABC_Co_operation.empmanagementDataSet.EmployeesDataTable">
+             <summary>
+            Represents the strongly named DataTable class.
+            </summary>
+        </member>
+        <member name="T:ABC_Co_operation.empmanagementDataSet.EmployeesRow">
+             <summary>
+            Represents strongly named DataRow class.
+            </summary>
+        </member>
+        <member name="T:ABC_Co_operation.empmanagementDataSet.EmployeesRowChangeEvent">
+             <summary>
+            Row event argument class
+            </summary>
+        </member>
+        <member name="T:ABC_Co_operation.empmanagementDataSetTableAdapters.EmployeesTableAdapter">
+             <summary>
+            Represents the connection and commands used to retrieve and save data.
+            </summary>
+        </member>
+        <member name="T:ABC_Co_operation.empmanagementDataSetTableAdapters.TableAdapterManager">
+             <summary>
+            TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+            </summary>
+        </member>
+        <member name="M:ABC_Co_operation.empmanagementDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(ABC_Co_operation.empmanagementDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+             <summary>
+            Update rows in top-down order.
+            </summary>
+        </member>
+        <member name="M:ABC_Co_operation.empmanagementDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(ABC_Co_operation.empmanagementDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+             <summary>
+            Insert rows in top-down order.
+            </summary>
+        </member>
+        <member name="M:ABC_Co_operation.empmanagementDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(ABC_Co_operation.empmanagementDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+             <summary>
+            Delete rows in bottom-up order.
+            </summary>
+        </member>
+        <member name="M:ABC_Co_operation.empmanagementDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+             <summary>
+            Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+            </summary>
+        </member>
+        <member name="M:ABC_Co_operation.empmanagementDataSetTableAdapters.TableAdapterManager.UpdateAll(ABC_Co_operation.empmanagementDataSet)">
+             <summary>
+            Update all changes to the dataset.
+            </summary>
+        </member>
+        <member name="T:ABC_Co_operation.empmanagementDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+             <summary>
+            Update Order Option
+            </summary>
+        </member>
+        <member name="T:ABC_Co_operation.empmanagementDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+             <summary>
+            Used to sort self-referenced table's rows
+            </summary>
+        </member>
+        <member name="T:ABC_Co_operation.empmanagementDataSet1">
+             <summary>
+            Represents a strongly typed in-memory cache of data.
+            </summary>
+        </member>
+        <member name="T:ABC_Co_operation.empmanagementDataSet1.EmployeesDataTable">
+             <summary>
+            Represents the strongly named DataTable class.
+            </summary>
+        </member>
+        <member name="T:ABC_Co_operation.empmanagementDataSet1.EmployeesRow">
+             <summary>
+            Represents strongly named DataRow class.
+            </summary>
+        </member>
+        <member name="T:ABC_Co_operation.empmanagementDataSet1.EmployeesRowChangeEvent">
+             <summary>
+            Row event argument class
+            </summary>
+        </member>
+        <member name="T:ABC_Co_operation.empmanagementDataSet1TableAdapters.EmployeesTableAdapter">
+             <summary>
+            Represents the connection and commands used to retrieve and save data.
+            </summary>
+        </member>
+        <member name="T:ABC_Co_operation.empmanagementDataSet1TableAdapters.TableAdapterManager">
+             <summary>
+            TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+            </summary>
+        </member>
+        <member name="M:ABC_Co_operation.empmanagementDataSet1TableAdapters.TableAdapterManager.UpdateUpdatedRows(ABC_Co_operation.empmanagementDataSet1,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+             <summary>
+            Update rows in top-down order.
+            </summary>
+        </member>
+        <member name="M:ABC_Co_operation.empmanagementDataSet1TableAdapters.TableAdapterManager.UpdateInsertedRows(ABC_Co_operation.empmanagementDataSet1,System.Collections.Generic.List{System.Data.DataRow})">
+             <summary>
+            Insert rows in top-down order.
+            </summary>
+        </member>
+        <member name="M:ABC_Co_operation.empmanagementDataSet1TableAdapters.TableAdapterManager.UpdateDeletedRows(ABC_Co_operation.empmanagementDataSet1,System.Collections.Generic.List{System.Data.DataRow})">
+             <summary>
+            Delete rows in bottom-up order.
+            </summary>
+        </member>
+        <member name="M:ABC_Co_operation.empmanagementDataSet1TableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+             <summary>
+            Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+            </summary>
+        </member>
+        <member name="M:ABC_Co_operation.empmanagementDataSet1TableAdapters.TableAdapterManager.UpdateAll(ABC_Co_operation.empmanagementDataSet1)">
+             <summary>
+            Update all changes to the dataset.
+            </summary>
+        </member>
+        <member name="T:ABC_Co_operation.empmanagementDataSet1TableAdapters.TableAdapterManager.UpdateOrderOption">
+             <summary>
+            Update Order Option
+            </summary>
+        </member>
+        <member name="T:ABC_Co_operation.empmanagementDataSet1TableAdapters.TableAdapterManager.SelfReferenceComparer">
+             <summary>
+            Used to sort self-referenced table's rows
+            </summary>
+        </member>
+        <member name="T:ABC_Co_operation.empmanagementDataSet2">
+             <summary>
+            Represents a strongly typed in-memory cache of data.
+            </summary>
+        </member>
+        <member name="T:ABC_Co_operation.empmanagementDataSet2.EmployeesDataTable">
+             <summary>
+            Represents the strongly named DataTable class.
+            </summary>
+        </member>
+        <member name="T:ABC_Co_operation.empmanagementDataSet2.EmployeesRow">
+             <summary>
+            Represents strongly named DataRow class.
+            </summary>
+        </member>
+        <member name="T:ABC_Co_operation.empmanagementDataSet2.EmployeesRowChangeEvent">
+             <summary>
+            Row event argument class
+            </summary>
+        </member>
+        <member name="T:ABC_Co_operation.empmanagementDataSet2TableAdapters.EmployeesTableAdapter">
+             <summary>
+            Represents the connection and commands used to retrieve and save data.
+            </summary>
+        </member>
+        <member name="T:ABC_Co_operation.empmanagementDataSet2TableAdapters.TableAdapterManager">
+             <summary>
+            TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+            </summary>
+        </member>
+        <member name="M:ABC_Co_operation.empmanagementDataSet2TableAdapters.TableAdapterManager.UpdateUpdatedRows(ABC_Co_operation.empmanagementDataSet2,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+             <summary>
+            Update rows in top-down order.
+            </summary>
+        </member>
+        <member name="M:ABC_Co_operation.empmanagementDataSet2TableAdapters.TableAdapterManager.UpdateInsertedRows(ABC_Co_operation.empmanagementDataSet2,System.Collections.Generic.List{System.Data.DataRow})">
+             <summary>
+            Insert rows in top-down order.
+            </summary>
+        </member>
+        <member name="M:ABC_Co_operation.empmanagementDataSet2TableAdapters.TableAdapterManager.UpdateDeletedRows(ABC_Co_operation.empmanagementDataSet2,System.Collections.Generic.List{System.Data.DataRow})">
+             <summary>
+            Delete rows in bottom-up order.
+            </summary>
+        </member>
+        <member name="M:ABC_Co_operation.empmanagementDataSet2TableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+             <summary>
+            Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+            </summary>
+        </member>
+        <member name="M:ABC_Co_operation.empmanagementDataSet2TableAdapters.TableAdapterManager.UpdateAll(ABC_Co_operation.empmanagementDataSet2)">
+             <summary>
+            Update all changes to the dataset.
+            </summary>
+        </member>
+        <member name="T:ABC_Co_operation.empmanagementDataSet2TableAdapters.TableAdapterManager.UpdateOrderOption">
+             <summary>
+            Update Order Option
+            </summary>
+        </member>
+        <member name="T:ABC_Co_operation.empmanagementDataSet2TableAdapters.TableAdapterManager.SelfReferenceComparer">
+             <summary>
+            Used to sort self-referenced table's rows
+            </summary>
+        </member>
+        <member name="F:ABC_Co_operation.UI.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:ABC_Co_operation.UI.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:ABC_Co_operation.UI.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="F:ABC_Co_operation.Login.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:ABC_Co_operation.Login.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:ABC_Co_operation.Login.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="F:ABC_Co_operation.Update_Employee.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:ABC_Co_operation.Update_Employee.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:ABC_Co_operation.Update_Employee.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="F:ABC_Co_operation.Welcome.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:ABC_Co_operation.Welcome.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:ABC_Co_operation.Welcome.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="M:ABC_Co_operation.Program.Main">
+            <summary>
+            The main entry point for the application.
+            </summary>
+        </member>
+        <member name="T:ABC_Co_operation.Properties.Resources">
+            <summary>
+              A strongly-typed resource class, for looking up localized strings, etc.
+            </summary>
+        </member>
+        <member name="P:ABC_Co_operation.Properties.Resources.ResourceManager">
+            <summary>
+              Returns the cached ResourceManager instance used by this class.
+            </summary>
+        </member>
+        <member name="P:ABC_Co_operation.Properties.Resources.Culture">
+            <summary>
+              Overrides the current thread's CurrentUICulture property for all
+              resource lookups using this strongly typed resource class.
+            </summary>
+        </member>
+        <member name="P:ABC_Co_operation.Properties.Resources.ABC_Co_">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:ABC_Co_operation.Properties.Resources.OIP">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:ABC_Co_operation.Properties.Resources.R">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+    </members>
+</doc>

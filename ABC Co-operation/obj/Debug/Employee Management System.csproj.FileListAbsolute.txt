@@ -1,0 +1,24 @@
+C:\Users\ASUS\source\repos\ABC Co-operation\ABC Co-operation\bin\Debug\Employeemanagement.mdf
+C:\Users\ASUS\source\repos\ABC Co-operation\ABC Co-operation\bin\Debug\Employeemanagement_log.ldf
+C:\Users\ASUS\source\repos\ABC Co-operation\ABC Co-operation\bin\Debug\ABC Co-operation.exe.config
+C:\Users\ASUS\source\repos\ABC Co-operation\ABC Co-operation\bin\Debug\ABC Co-operation.exe.manifest
+C:\Users\ASUS\source\repos\ABC Co-operation\ABC Co-operation\bin\Debug\ABC Co-operation.application
+C:\Users\ASUS\source\repos\ABC Co-operation\ABC Co-operation\bin\Debug\ABC Co-operation.xml
+C:\Users\ASUS\source\repos\ABC Co-operation\ABC Co-operation\bin\Debug\ABC Co-operation.exe
+C:\Users\ASUS\source\repos\ABC Co-operation\ABC Co-operation\obj\Debug\Employee Management System.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\ABC Co-operation\ABC Co-operation\obj\Debug\Employee Management System.csproj.SuggestedBindingRedirects.cache
+C:\Users\ASUS\source\repos\ABC Co-operation\ABC Co-operation\obj\Debug\ABC_Co_operation.employee.resources
+C:\Users\ASUS\source\repos\ABC Co-operation\ABC Co-operation\obj\Debug\ABC_Co_operation.Login.resources
+C:\Users\ASUS\source\repos\ABC Co-operation\ABC Co-operation\obj\Debug\ABC_Co_operation.Properties.Resources.resources
+C:\Users\ASUS\source\repos\ABC Co-operation\ABC Co-operation\obj\Debug\ABC_Co_operation.UI.resources
+C:\Users\ASUS\source\repos\ABC Co-operation\ABC Co-operation\obj\Debug\ABC_Co_operation.Update_Employee.resources
+C:\Users\ASUS\source\repos\ABC Co-operation\ABC Co-operation\obj\Debug\ABC_Co_operation.Welcome.resources
+C:\Users\ASUS\source\repos\ABC Co-operation\ABC Co-operation\obj\Debug\Employee Management System.csproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\ABC Co-operation\ABC Co-operation\obj\Debug\Employee Management System.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\ABC Co-operation\ABC Co-operation\obj\Debug\ABC Co-operation.exe.manifest
+C:\Users\ASUS\source\repos\ABC Co-operation\ABC Co-operation\obj\Debug\ABC Co-operation.application
+C:\Users\ASUS\source\repos\ABC Co-operation\ABC Co-operation\obj\Debug\ABC Co-operation.exe
+C:\Users\ASUS\source\repos\ABC Co-operation\ABC Co-operation\obj\Debug\ABC Co-operation.pdb
+C:\Users\ASUS\source\repos\ABC Co-operation\ABC Co-operation\bin\Debug\ABC Co-operation.pdb
+C:\Users\ASUS\source\repos\ABC Co-operation\ABC Co-operation\bin\Debug\ABC Co-operation.exe.CodeAnalysisLog.xml
+C:\Users\ASUS\source\repos\ABC Co-operation\ABC Co-operation\bin\Debug\ABC Co-operation.exe.lastcodeanalysissucceeded
